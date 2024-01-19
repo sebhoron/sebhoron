@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sebhoron
 - 👀 I’m interested in software development and machine learning.
-- 🌱 I’m currently upskilling in Java Spring Boot.
+- 🌱 I’m currently upskilling in NodeJS hapi framework.
 - 💞️ I’m looking to collaborate on web application and machine learning projects.
 
 <!---
