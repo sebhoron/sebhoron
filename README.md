@@ -58,9 +58,10 @@
 
 ## Certifications
 
-<a href="https://www.datacamp.com/certificate/DSA0016657308940">
-  <img alt="Data Science Associate" src="https://github.com/user-attachments/assets/d5be1240-684e-4e87-8063-5a84bb332363" height="200px" align="left" />
-</a>
 <a href="https://www.credly.com/badges/349a24a9-95c5-4b6a-a7f5-2d9a57215e2e/linked_in_profile">
   <img alt="Software Development Foundation" src="https://github.com/user-attachments/assets/f8bd68e9-ef71-4b95-a66f-cbbfb67baf53" height="200px" align="left" />
 </a>
+<a href="https://www.datacamp.com/certificate/DSA0016657308940">
+  <img alt="Data Science Associate" src="https://github.com/user-attachments/assets/d5be1240-684e-4e87-8063-5a84bb332363" height="200px" align="left" />
+</a>
+
