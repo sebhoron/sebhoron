@@ -1,15 +1,18 @@
 ## 🔎 About me
+
 - 👀 I’m interested in AI development.
 - 🌱 I’m learning: **Haystack, Langchain, Cloud Deployment**.
 - 💞️ I’m looking to collaborate on AI and React projects.
 - 😍 I love tea, Lego and 💙Python💙
 
 ## ✉️ Get in touch
+
 <p>
    If you want to get in touch feel free to connect on <a href="https://www.linkedin.com/in/sebastian-horon/" ><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="sebastian-horon" height="40" width="40"/></a>
 </p>
 
 ## 🛠 Languages and Tools
+
 <p>
   <!-- Python -->
   <a href="https://github.com/search?l=Python&q=user%3Ahud0shnik&type=Repositories"> 
@@ -45,6 +48,7 @@
 </p>
 
 ## GitHub Stats
+
 <a href="https://github.com/shoron?tab=repositories">
   <img alt="SebHoron's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebhoron&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=jupyter%20notebook,html" width="390" align="center" />
 </a>
@@ -52,7 +56,11 @@
   <img alt="SebHoron's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sebhoron&show_icons=true&theme=react&layout=compact&hide_border=true&hide=issues&show=reviews" width="435" align="center" />
 </a>
 
-<!---
-sebhoron/sebhoron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Certifications
+
+<a href="https://www.datacamp.com/certificate/DSA0016657308940">
+  <img alt="Data Science Associate" src="https://github.com/user-attachments/assets/d5be1240-684e-4e87-8063-5a84bb332363" height="220px" align="left" />
+</a>
+<a href="https://www.credly.com/badges/349a24a9-95c5-4b6a-a7f5-2d9a57215e2e/linked_in_profile">
+  <img alt="Software Development Foundation" src="https://github.com/user-attachments/assets/f8bd68e9-ef71-4b95-a66f-cbbfb67baf53" height="220px" align="left" />
+</a>
