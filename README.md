@@ -1,5 +1,4 @@
 ## 🔎 About me
-
 - 👀 I’m interested in AI development.
 - 🌱 I’m learning: **Haystack, Langchain, Cloud Deployment**.
 - 💞️ I’m looking to collaborate on AI and React projects.
@@ -41,18 +40,16 @@
   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/></a>
   <!-- Jupyter -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/></a>
-  <!-- Ubuntu -->
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="40" height="40"/></a>
   <!-- Git -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
 ## GitHub Stats
 <a href="https://github.com/shoron?tab=repositories">
-  <img alt="SebHoron's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebhoron&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=jupyter%20notebook" height=212 align="center"/>
+  <img alt="SebHoron's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebhoron&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=jupyter%20notebook" height=200 align="center" />
 </a>
 <a href="https://github.com/shoron">
-  <img alt="SebHoron's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sebhoron&show_icons=true&theme=react&layout=compact&hide_border=true&hide=issues&show=reviews" height=212 align="center"/>
+  <img alt="SebHoron's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sebhoron&show_icons=true&theme=react&layout=compact&hide_border=true&hide=issues&show=reviews" height=200 align="center" />
 </a>
 
 <!---
