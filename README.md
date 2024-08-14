@@ -1,9 +1,59 @@
-- 👋 Hi, I’m @sebhoron
-- 👀 I’m interested in AI development.
-- 🌱 I’m currently working on AI projects.
-- 💞️ I’m looking to collaborate on AI and React projects.
+## 🔎 About me
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebhoron"/>
+- 👀 I’m interested in AI development.
+- 🌱 I’m learning: **Haystack, Langchain, Cloud Deployment**.
+- 💞️ I’m looking to collaborate on AI and React projects.
+- 😍 I love tea, Lego and 💙Python💙
+
+## ✉️ Get in touch
+<p>
+   If you want to get in touch feel free to connect on <a href="https://www.linkedin.com/in/sebastian-horon/" ><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="sebastian-horon" height="40" width="40"/></a>
+</p>
+
+## 🛠 Languages and Tools
+<p>
+  <!-- Python -->
+  <a href="https://github.com/search?l=Python&q=user%3Ahud0shnik&type=Repositories"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <!-- NodeJS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/></a>
+  <!-- TypeScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+  <!-- React -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+  <!-- Html -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Html" width="40" height="40"/></a>
+  <!-- CSS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>
+  <!-- PostgreSQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="40" height="40"/></a>
+  <!-- AWS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+  <!-- Azure -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></a>
+  <!-- Kubernetes -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/></a>
+  <!-- Docker -->
+  <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" width="40" height="40"/></a>
+  <!-- VS Code -->
+  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/></a>
+  <!-- Jupyter -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/></a>
+  <!-- Ubuntu -->
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="40" height="40"/></a>
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+</p>
+
+## GitHub Stats
+<a href="https://github.com/shoron?tab=repositories">
+  <img alt="SebHoron's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebhoron&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=jupyter%20notebook" height="198px" align="center"/>
+</a>
+<a href="https://github.com/shoron">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoron&show_icons=true&theme=aura&layout=compact" height=198px align="center"/>
+</a>
 
 <!---
 sebhoron/sebhoron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
