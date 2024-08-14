@@ -46,10 +46,10 @@
 
 ## GitHub Stats
 <a href="https://github.com/shoron?tab=repositories">
-  <img alt="SebHoron's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebhoron&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=jupyter%20notebook" width="400" align="center" />
+  <img alt="SebHoron's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebhoron&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=jupyter%20notebook" width="390" align="center" />
 </a>
 <a href="https://github.com/shoron">
-  <img alt="SebHoron's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sebhoron&show_icons=true&theme=react&layout=compact&hide_border=true&hide=issues&show=reviews" width="450" align="center" />
+  <img alt="SebHoron's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sebhoron&show_icons=true&theme=react&layout=compact&hide_border=true&hide=issues&show=reviews" width="435" align="center" />
 </a>
 
 <!---
