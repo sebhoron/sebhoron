@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on AI projects.
 - 💞️ I’m looking to collaborate on AI and React projects.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebhoron"/>
 
 <!---
 sebhoron/sebhoron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
