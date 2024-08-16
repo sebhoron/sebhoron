@@ -58,6 +58,9 @@
 
 ## Certifications
 
+<a href="https://www.datacamp.com/skill-verification/AIF0029856131245">
+  <img alt="AI Fundamentals" src="https://github.com/user-attachments/assets/4c8204ce-bf18-431b-99fb-fe1f77c0c7a1" height="200px" align="left" />
+</a>
 <a href="https://www.datacamp.com/certificate/DSA0016657308940">
   <img alt="Data Science Associate" src="https://github.com/user-attachments/assets/d5be1240-684e-4e87-8063-5a84bb332363" height="200px" align="left" />
 </a>
