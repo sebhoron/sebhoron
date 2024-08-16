@@ -14,37 +14,41 @@
 ## 🛠 Languages and Tools
 
 <p>
-  <!-- Python -->
-  <a href="https://github.com/search?l=Python&q=user%3Ahud0shnik&type=Repositories"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <!-- NodeJS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/></a>
-  <!-- TypeScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <!-- React -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-  <!-- Html -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Html" width="40" height="40"/></a>
-  <!-- CSS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
-  <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>
-  <!-- PostgreSQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="40" height="40"/></a>
-  <!-- AWS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <!-- Azure -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></a>
-  <!-- Kubernetes -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/></a>
-  <!-- Docker -->
-  <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" width="40" height="40"/></a>
-  <!-- VS Code -->
-  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/></a>
-  <!-- Jupyter -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/></a>
-  <!-- Git -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+   <!-- C -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Python" width="40" height="40"/>
+   <!-- C++ -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Python" width="40" height="40"/>
+   <!-- Python -->
+   <a href="https://github.com/search?l=Python&q=user%3Ahud0shnik&type=Repositories"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+   <!-- NodeJS -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/></a>
+   <!-- TypeScript -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+   <!-- JavaScript -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>
+   <!-- React -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+   <!-- Html -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Html" width="40" height="40"/></a>
+   <!-- CSS -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
+   <!-- PostgreSQL -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="40" height="40"/></a>
+   <!-- AWS -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+   <!-- Azure -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></a>
+   <!-- Kubernetes -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/></a>
+   <!-- Docker -->
+   <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" width="40" height="40"/></a>
+   <!-- VS Code -->
+   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/></a>
+   <!-- Jupyter -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/></a>
+   <!-- Git -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
 ## GitHub Stats
