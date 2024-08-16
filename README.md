@@ -13,18 +13,29 @@
 
 ## 🛠 Languages and Tools
 
+### Back-end
+
 <p>
-   <!-- C -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Python" width="40" height="40"/>
-   <!-- C++ -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Python" width="40" height="40"/>
    <!-- Python -->
    <a href="https://github.com/search?l=Python&q=user%3Ahud0shnik&type=Repositories"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
    <!-- NodeJS -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/></a>
-   <!-- TypeScript -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+   <!-- DotNET -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+   <!-- Java -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+   <!-- C# -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+   <!-- C++ -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+   <!-- C -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>   
+</p>
+
+### Front-end
+
+<p>
    <!-- JavaScript -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>
    <!-- React -->
@@ -33,6 +44,8 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Html" width="40" height="40"/></a>
    <!-- CSS -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
+</p>
+<p>
    <!-- PostgreSQL -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="40" height="40"/></a>
    <!-- AWS -->
@@ -51,7 +64,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <a href="https://github.com/sebhoron?tab=repositories">
   <img alt="SebHoron's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebhoron&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=jupyter%20notebook,html,css" width="390" align="center" />
@@ -60,7 +73,7 @@
   <img alt="SebHoron's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sebhoron&show_icons=true&theme=react&layout=compact&hide_border=true&hide=issues&show=reviews" width="435" align="center" />
 </a>
 
-## Certifications
+## 📜 Certifications
 
 ### DataCamp
 
