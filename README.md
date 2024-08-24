@@ -46,6 +46,14 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
 </p>
 
+### Frameworks
+<p>
+   <!-- Flask -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Hapi" width="40" height="40"/></a>
+   <!-- Spring -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/></a>
+</p>
+
 ### Databases
 
 <p>
