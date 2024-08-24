@@ -22,7 +22,7 @@
    <!-- NodeJS -->
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="NodeJS" width="40" height="40"/></a>
    <!-- DotNET -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" alt=".NET" width="40" height="40"/>
    <!-- Java -->
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="40" height="40"/></a>
    <!-- C# -->
@@ -53,14 +53,18 @@
    <!-- Flask -->
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" alt="Flask" width="40" height="40"/></a>
    <!-- Spring -->
-   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" alt="Spring" width="40" height="40"/></a>
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Light.svg">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" alt="Spring" width="40" height="40"/></a>
+   </picture>
 </p>
 
 ### Databases
 
 <p>
    <!-- MongoDB -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/></a>
    <!-- PostgreSQL -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
    <!-- MySQL -->
@@ -73,9 +77,17 @@
 
 <p>
    <!-- Azure -->
-   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" alt="Azure" width="40" height="40"/></a>
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Light.svg">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" alt="Azure" width="40" height="40"/></a>
+   </picture>
    <!-- AWS -->
-   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40"/></a>
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Light.svg">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40"/></a>
+   </picture>
    <!-- Docker -->
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons//main/icons/Docker.svg" alt="Docker" width="40" height="40"/></a>
    <!-- Kubernetes -->
