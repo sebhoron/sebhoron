@@ -48,6 +48,8 @@
 
 ### Frameworks
 <p>
+   <!-- Django -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/></a>
    <!-- Flask -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Hapi" width="40" height="40"/></a>
    <!-- Spring -->
