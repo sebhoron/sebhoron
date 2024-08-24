@@ -49,6 +49,8 @@
 ### Databases
 
 <p>
+   <!-- MongoDB -->
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
    <!-- PostgreSQL -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
    <!-- MySQL -->
