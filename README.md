@@ -20,11 +20,11 @@
    <a href="https://github.com/search?l=Python&q=user%3Ahud0shnik&type=Repositories"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
    <!-- NodeJS -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/></a>
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="NodeJS" width="40" height="40"/></a>
    <!-- DotNET -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
    <!-- Java -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="40" height="40"/></a>
    <!-- C# -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
    <!-- C++ -->
@@ -37,9 +37,9 @@
    <!-- React -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
    <!-- TypeScript -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/></a>
    <!-- JavaScript -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/></a>
    <!-- Html -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Html" width="40" height="40"/></a>
    <!-- CSS -->
@@ -53,7 +53,7 @@
    <!-- Flask -->
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" alt="Flask" width="40" height="40"/></a>
    <!-- Spring -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/></a>
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" alt="Spring" width="40" height="40"/></a>
 </p>
 
 ### Databases
@@ -77,11 +77,15 @@
    <!-- AWS -->
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40"/></a>
    <!-- Docker -->
-   <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" width="40" height="40"/></a>
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons//main/icons/Docker.svg" alt="Docker" width="40" height="40"/></a>
    <!-- Kubernetes -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/></a>
    <!-- Ubuntu -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/></a>
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Dark.svg">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Dark.svg" alt="Ubuntu" width="40" height="40"/></a>
+   </picture>
 </p>
 
 ### Development Tools
@@ -90,7 +94,7 @@
    <!-- VS Code -->
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/></a>
    <!-- Postman -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/></a>
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="Postman" width="40" height="40"/></a>
    <!-- Swagger -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/></a>
    <!-- Jupyter -->
