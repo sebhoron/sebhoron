@@ -25,6 +25,12 @@
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" alt=".NET" width="40" height="40"/>
    <!-- Java -->
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="40" height="40"/></a>
+   <!-- GraphQL -->
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Light.svg">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg" alt="GraphQL" width="40" height="40"/></a>
+   </picture>
    <!-- C# -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
    <!-- C++ -->
@@ -57,6 +63,14 @@
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="Django" width="40" height="40"/></a>
    <!-- Flask -->
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" alt="Flask" width="40" height="40"/></a>
+   <!-- Hapi -->
+   <img src="https://github.com/user-attachments/assets/1378468c-a907-4fbb-a351-081b2da259ad" alt="Hapi" width="40" height="40"/></a>
+   <!-- ExpressJS -->
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Light.svg">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" alt="ExpressJS" width="40" height="40"/></a>
+   </picture>
    <!-- Spring -->
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg">
@@ -120,8 +134,12 @@
 ### Development Tools
 
 <p>
-   <!-- VS Code -->
-   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/></a>
+   <!-- VSCode -->
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Light.svg">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VSCode" width="40" height="40"/></a>
+   </picture>
    <!-- Postman -->
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="Postman" width="40" height="40"/></a>
    <!-- Swagger -->
