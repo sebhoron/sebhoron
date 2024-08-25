@@ -60,9 +60,15 @@
    <!-- Haystack -->
    <img src="https://github.com/user-attachments/assets/b1755a4b-67e6-42b0-a1d5-60740459325f" alt="Haystack" width="40" height="40"/></a>
    <!-- Django -->
-   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="Django" width="40" height="40"/></a>
+   <picture>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="Django" width="40" height="40"/></a>
+   </picture>
    <!-- Flask -->
-   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" alt="Flask" width="40" height="40"/></a>
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Light.svg">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" alt="Flask" width="40" height="40"/></a>
+   </picture>
    <!-- Hapi -->
    <img src="https://github.com/user-attachments/assets/1378468c-a907-4fbb-a351-081b2da259ad" alt="Hapi" width="40" height="40"/></a>
    <!-- ExpressJS -->
