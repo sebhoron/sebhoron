@@ -47,7 +47,12 @@
 </p>
 
 ### Frameworks
+
 <p>
+   <!-- Langchain -->
+   <img src="https://github.com/user-attachments/assets/c9d07ff3-322b-4380-b5d5-1629ae95b7cd" alt="Langchain" height="40"/></a>
+   <!-- Haystack -->
+   <img src="https://github.com/user-attachments/assets/b1755a4b-67e6-42b0-a1d5-60740459325f" alt="Haystack" width="40" height="40"/></a>
    <!-- Django -->
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="Django" width="40" height="40"/></a>
    <!-- Flask -->
