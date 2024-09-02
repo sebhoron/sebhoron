@@ -20,10 +20,12 @@
    <a href="https://github.com/search?l=Python&q=user%3Asebhoron&type=Repositories">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
    <!-- NodeJS -->
+   <a href="https://github.com/search?l=js&q=user%3Asebhoron&type=Repositories">
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="NodeJS" width="40" height="40"/></a>
    <!-- DotNET -->
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" alt=".NET" width="40" height="40"/>
    <!-- Java -->
+   <a href="https://github.com/search?l=java&q=user%3Asebhoron&type=Repositories">
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="40" height="40"/></a>
    <!-- GraphQL -->
    <picture>
