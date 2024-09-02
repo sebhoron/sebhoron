@@ -136,9 +136,13 @@
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40"/></a>
    </picture>
    <!-- Docker -->
-   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons//main/icons/Docker.svg" alt="Docker" width="40" height="40"/></a>
+   <picture>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons//main/icons/Docker.svg" alt="Docker" width="40" height="40"/></a>
+   </picture>
    <!-- Kubernetes -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/></a>
+   <picture>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/></a>
+   </picture>
    <!-- Ubuntu -->
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Dark.svg">
