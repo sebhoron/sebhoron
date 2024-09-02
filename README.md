@@ -17,7 +17,7 @@
 
 <p>
    <!-- Python -->
-   <a href="https://github.com/search?l=Python&q=user%3Ahud0shnik&type=Repositories"> 
+   <a href="https://github.com/search?l=Python&q=user%3Asebhoron&type=Repositories">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
    <!-- NodeJS -->
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="NodeJS" width="40" height="40"/></a>
