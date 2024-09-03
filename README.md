@@ -18,20 +18,23 @@
 <p>
    <!-- Python -->
    <a href="https://github.com/search?l=Python&q=user%3Asebhoron&type=Repositories">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+   </a>
    <!-- NodeJS -->
    <a href="https://github.com/search?l=js&q=user%3Asebhoron&type=Repositories">
-   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="NodeJS" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="NodeJS" width="40" height="40"/>
+   </a>
    <!-- DotNET -->
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" alt=".NET" width="40" height="40"/>
    <!-- Java -->
    <a href="https://github.com/search?l=java&q=user%3Asebhoron&type=Repositories">
-   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="40" height="40"/>
+   </a>
    <!-- GraphQL -->
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Light.svg">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg" alt="GraphQL" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg" alt="GraphQL" width="40" height="40"/>
    </picture>
    <!-- C# -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
@@ -43,16 +46,17 @@
 
 <p>
    <!-- React -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
    <!-- TypeScript -->
-   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/></a>
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/>
    <!-- JavaScript -->
    <a href="https://github.com/search?l=js&q=user%3Asebhoron&type=Repositories">
-   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/>
+   </a>
    <!-- Html -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Html" width="40" height="40"/></a>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Html" width="40" height="40"/>
    <!-- CSS -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
 </p>
 
 ### Frameworks
@@ -60,37 +64,37 @@
 <p>
    <!-- Langchain -->
    <picture>
-      <img src="https://github.com/user-attachments/assets/c9d07ff3-322b-4380-b5d5-1629ae95b7cd" alt="Langchain" height="40"/></a>
+      <img src="https://github.com/user-attachments/assets/c9d07ff3-322b-4380-b5d5-1629ae95b7cd" alt="Langchain" height="40"/>
    </picture>
    <!-- Haystack -->
    <picture>
-      <img src="https://github.com/user-attachments/assets/b1755a4b-67e6-42b0-a1d5-60740459325f" alt="Haystack" width="40" height="40"/></a>
+      <img src="https://github.com/user-attachments/assets/b1755a4b-67e6-42b0-a1d5-60740459325f" alt="Haystack" width="40" height="40"/>
    </picture>
    <!-- Django -->
    <picture>
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="Django" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="Django" width="40" height="40"/>
    </picture>
    <!-- Flask -->
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Light.svg">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" alt="Flask" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" alt="Flask" width="40" height="40"/>
    </picture>
    <!-- Hapi -->
    <picture>
-      <img src="https://github.com/user-attachments/assets/1378468c-a907-4fbb-a351-081b2da259ad" alt="Hapi" width="40" height="40"/></a>
+      <img src="https://github.com/user-attachments/assets/1378468c-a907-4fbb-a351-081b2da259ad" alt="Hapi" width="40" height="40"/>
    </picture>
    <!-- ExpressJS -->
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Light.svg">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" alt="ExpressJS" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" alt="ExpressJS" width="40" height="40"/>
    </picture>
    <!-- Spring -->
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Light.svg">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" alt="Spring" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" alt="Spring" width="40" height="40"/>
    </picture>
 </p>
 
