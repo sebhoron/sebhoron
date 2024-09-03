@@ -8,7 +8,7 @@
 ## ✉️ Get in touch
 
 <p>
-   If you want to get in touch feel free to connect on <a href="https://www.linkedin.com/in/sebastian-horon/" ><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="sebastian-horon" height="40" width="40"/></a>
+   If you want to get in touch feel free to connect on <a href="https://www.linkedin.com/in/sebastian-horon/"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="sebastian-horon" height="40" width="40"/></a>
 </p>
 
 ## 🛠 Languages and Tools
@@ -17,19 +17,13 @@
 
 <p>
    <!-- Python -->
-   <a href="https://github.com/search?l=Python&q=user%3Asebhoron&type=Repositories">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-   </a>
+   <a href="https://github.com/search?l=Python&q=user%3Asebhoron&type=Repositories"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
    <!-- NodeJS -->
-   <a href="https://github.com/search?l=js&q=user%3Asebhoron&type=Repositories">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="NodeJS" width="40" height="40"/>
-   </a>
+   <a href="https://github.com/search?l=js&q=user%3Asebhoron&type=Repositories"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="NodeJS" width="40" height="40"/></a>
    <!-- DotNET -->
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" alt=".NET" width="40" height="40"/>
    <!-- Java -->
-   <a href="https://github.com/search?l=java&q=user%3Asebhoron&type=Repositories">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="40" height="40"/>
-   </a>
+   <a href="https://github.com/search?l=java&q=user%3Asebhoron&type=Repositories"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="40" height="40"/></a>
    <!-- GraphQL -->
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg">
@@ -50,9 +44,7 @@
    <!-- TypeScript -->
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/>
    <!-- JavaScript -->
-   <a href="https://github.com/search?l=js&q=user%3Asebhoron&type=Repositories">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/>
-   </a>
+   <a href="https://github.com/search?l=js&q=user%3Asebhoron&type=Repositories"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/></a>
    <!-- Html -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Html" width="40" height="40"/>
    <!-- CSS -->
@@ -103,25 +95,25 @@
 <p>
    <!-- MongoDB -->
    <picture>
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/>
    </picture>
    <!-- PostgreSQL -->
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Light.svg">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="40" height="40"/>
    </picture>
    <!-- MySQL -->
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/>
    </picture>
    <!-- Supabase -->
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase-Light.svg">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase-Dark.svg" alt="Supabase" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase-Dark.svg" alt="Supabase" width="40" height="40"/>
    </picture>
 </p>
 
@@ -132,27 +124,27 @@
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Light.svg">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" alt="Azure" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" alt="Azure" width="40" height="40"/>
    </picture>
    <!-- AWS -->
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Light.svg">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40"/>
    </picture>
    <!-- Docker -->
    <picture>
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons//main/icons/Docker.svg" alt="Docker" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons//main/icons/Docker.svg" alt="Docker" width="40" height="40"/>
    </picture>
    <!-- Kubernetes -->
    <picture>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/>
    </picture>
    <!-- Ubuntu -->
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Light.svg">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Dark.svg" alt="Ubuntu" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Dark.svg" alt="Ubuntu" width="40" height="40"/>
    </picture>
 </p>
 
@@ -163,53 +155,38 @@
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Light.svg">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VSCode" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VSCode" width="40" height="40"/>
    </picture>
    <!-- Postman -->
    <picture>
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="Postman" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="Postman" width="40" height="40"/>
    </picture>
    <!-- Swagger -->
    <picture>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>
    </picture>
    <!-- Jupyter -->
-   <a href="https://github.com/search?l=jupyter-notebook&q=user%3Asebhoron&type=Repositories">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/></a>
+   <a href="https://github.com/search?l=jupyter-notebook&q=user%3Asebhoron&type=Repositories"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/></a>
    <!-- Git -->
    <picture>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
    </picture>
 </p>
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/sebhoron?tab=repositories">
-  <img alt="SebHoron's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebhoron&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=jupyter%20notebook" height="180px" align="center" />
-</a>
-<a href="https://github.com/sebhoron">
-  <img alt="SebHoron's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sebhoron&show_icons=true&theme=react&layout=compact&hide_border=true&hide=issues&show=reviews" height="180px" align="center" />
-</a>
+<a href="https://github.com/sebhoron?tab=repositories"><img alt="SebHoron's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebhoron&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=jupyter%20notebook" height="180px" align="center"/></a>
+<a href="https://github.com/sebhoron"><img alt="SebHoron's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sebhoron&show_icons=true&theme=react&layout=compact&hide_border=true&hide=issues&show=reviews" height="180px" align="center"/></a>
 
 ## 📜 Certifications
 
 ### DataCamp
 
-<a href="https://www.datacamp.com/skill-verification/AIF0029856131245">
-  <img alt="AI Fundamentals" src="https://github.com/user-attachments/assets/4c8204ce-bf18-431b-99fb-fe1f77c0c7a1" height="200px" />
-</a>
-<a href="https://www.datacamp.com/certificate/DSA0016657308940">
-  <img alt="Data Science Associate" src="https://github.com/user-attachments/assets/d5be1240-684e-4e87-8063-5a84bb332363" height="200px" />
-</a>
-<a href="https://www.datacamp.com/certificate/DEA0012705736021">
-  <img alt="Data Engineering Associate" src="https://github.com/user-attachments/assets/db792360-47cf-4a89-a4ac-cc54bdd42b1a" height="200px" />
-</a>
-<a href="https://www.datacamp.com/certificate/DAA0010066015032">
-  <img alt="Data Analyst Associate" src="https://github.com/user-attachments/assets/ae142e1b-2e97-4dc3-8a84-0c3f3528c24c" height="200px" />
-</a>
+<a href="https://www.datacamp.com/skill-verification/AIF0029856131245"><img alt="AI Fundamentals" src="https://github.com/user-attachments/assets/4c8204ce-bf18-431b-99fb-fe1f77c0c7a1" height="200px"/></a>
+<a href="https://www.datacamp.com/certificate/DSA0016657308940"><img alt="Data Science Associate" src="https://github.com/user-attachments/assets/d5be1240-684e-4e87-8063-5a84bb332363" height="200px"/></a>
+<a href="https://www.datacamp.com/certificate/DEA0012705736021"><img alt="Data Engineering Associate" src="https://github.com/user-attachments/assets/db792360-47cf-4a89-a4ac-cc54bdd42b1a" height="200px"/></a>
+<a href="https://www.datacamp.com/certificate/DAA0010066015032"><img alt="Data Analyst Associate" src="https://github.com/user-attachments/assets/ae142e1b-2e97-4dc3-8a84-0c3f3528c24c" height="200px"/></a>
 
 ### Credly
 
-<a href="https://www.credly.com/badges/349a24a9-95c5-4b6a-a7f5-2d9a57215e2e/linked_in_profile">
-  <img alt="Software Development Foundation" src="https://github.com/user-attachments/assets/f8bd68e9-ef71-4b95-a66f-cbbfb67baf53" height="200px" />
-</a>
+<a href="https://www.credly.com/badges/349a24a9-95c5-4b6a-a7f5-2d9a57215e2e/linked_in_profile"><img alt="Software Development Foundation" src="https://github.com/user-attachments/assets/f8bd68e9-ef71-4b95-a66f-cbbfb67baf53" height="200px"/></a>
