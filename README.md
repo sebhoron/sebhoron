@@ -47,6 +47,7 @@
    <!-- TypeScript -->
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/></a>
    <!-- JavaScript -->
+   <a href="https://github.com/search?l=js&q=user%3Asebhoron&type=Repositories">
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/></a>
    <!-- Html -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Html" width="40" height="40"/></a>
@@ -161,14 +162,20 @@
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VSCode" width="40" height="40"/></a>
    </picture>
    <!-- Postman -->
-   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="Postman" width="40" height="40"/></a>
+   <picture>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="Postman" width="40" height="40"/></a>
+   </picture>
    <!-- Swagger -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/></a>
+   <picture>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/></a>
+   </picture>
    <!-- Jupyter -->
    <a href="https://github.com/search?l=jupyter-notebook&q=user%3Asebhoron&type=Repositories">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/></a>
    <!-- Git -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+   <picture>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+   </picture>
 </p>
 
 ## 📊 GitHub Stats
