@@ -165,6 +165,7 @@
    <!-- Swagger -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/></a>
    <!-- Jupyter -->
+   <a href="https://github.com/search?l=jupyter-notebook&q=user%3Asebhoron&type=Repositories">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/></a>
    <!-- Git -->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
