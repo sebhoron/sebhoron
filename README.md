@@ -191,6 +191,6 @@
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/SebastianHoron-7259/F0A19BB3B5B3AC9?sharingId=C0BE013D36ADEB48"><img alt="AI Fundamentals" src="https://github.com/user-attachments/assets/993a24b9-1f2b-4d52-8ea3-57fdfee8be1f" height="200px"/></a>
 
-### FDM Group
+### TechSkills
 
 <a href="https://www.credly.com/badges/349a24a9-95c5-4b6a-a7f5-2d9a57215e2e/linked_in_profile"><img alt="Software Development Foundation" src="https://github.com/user-attachments/assets/f8bd68e9-ef71-4b95-a66f-cbbfb67baf53" height="200px"/></a>
