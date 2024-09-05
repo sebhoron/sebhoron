@@ -182,11 +182,17 @@
 
 ### DataCamp
 
+![azure-ai-fundamentals-600x600]()
+
 <a href="https://www.datacamp.com/skill-verification/AIF0029856131245"><img alt="AI Fundamentals" src="https://github.com/user-attachments/assets/4c8204ce-bf18-431b-99fb-fe1f77c0c7a1" height="200px"/></a>
 <a href="https://www.datacamp.com/certificate/DSA0016657308940"><img alt="Data Science Associate" src="https://github.com/user-attachments/assets/d5be1240-684e-4e87-8063-5a84bb332363" height="200px"/></a>
 <a href="https://www.datacamp.com/certificate/DEA0012705736021"><img alt="Data Engineering Associate" src="https://github.com/user-attachments/assets/db792360-47cf-4a89-a4ac-cc54bdd42b1a" height="200px"/></a>
 <a href="https://www.datacamp.com/certificate/DAA0010066015032"><img alt="Data Analyst Associate" src="https://github.com/user-attachments/assets/ae142e1b-2e97-4dc3-8a84-0c3f3528c24c" height="200px"/></a>
 
-### Credly
+### Microsoft
+
+<a href="https://learn.microsoft.com/api/credentials/share/en-gb/SebastianHoron-7259/F0A19BB3B5B3AC9?sharingId=C0BE013D36ADEB48"><img alt="AI Fundamentals" src="https://github.com/user-attachments/assets/993a24b9-1f2b-4d52-8ea3-57fdfee8be1f" height="200px"/></a>
+
+### FDM Group
 
 <a href="https://www.credly.com/badges/349a24a9-95c5-4b6a-a7f5-2d9a57215e2e/linked_in_profile"><img alt="Software Development Foundation" src="https://github.com/user-attachments/assets/f8bd68e9-ef71-4b95-a66f-cbbfb67baf53" height="200px"/></a>
